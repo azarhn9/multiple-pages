@@ -1,0 +1,7 @@
+body {
+  background: cadetblue;
+  text-align: center;
+}
+h2 {
+  flex-direction: column;
+}
